@@ -1,6 +1,6 @@
 # commclassroomOP
 
-keval kumar is learning GitHub
+keval kumar is learning Git and github
 
 
 
